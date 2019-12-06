@@ -6,7 +6,7 @@ The project has some core ideas:
 * Provide a number of small utils that have specific tasks
 * Integrate with AWS to allow CFN Stacks to be easily linked
 * Parameters should be easy to configure outside of CFN template
-
+* There are better ways to do this in 2019 
 
 CFN Utils Will follow this basic design.
 
